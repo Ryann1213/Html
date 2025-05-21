@@ -1,5 +1,3 @@
-Beleza! Aqui vai a mesma atividade, mas com uma linguagem mais leve e descontraída — como se você estivesse explicando direto pro professor, mas sem parecer que foi feito por outra pessoa:
-
 ---
 
 ## **A Semântica por Trás da Apresentação: Desvendando a Estrutura Textual em HTML**
@@ -68,4 +66,4 @@ Usar esses elementos direitinho ajuda a mostrar pro leitor (e até pro Google) o
 
 ---
 
-Se quiser, posso mandar isso tudo num arquivo Word ou PDF pra facilitar a entrega. Só avisar!
+
